@@ -1,0 +1,87 @@
+body {
+    background-color: #f0f8ff; /* Cor de fundo suave */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #4a90e2;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+ul {
+    margin: 20px;
+    padding: 0;
+    list-style-type: circle; /* Remove os marcadores padrão */
+}
+
+ul li {
+    margin-bottom: 10px; /* Espaçamento maior entre itens */
+}
+
+img.hobby-image {
+    display: block;
+    float: left; /* Posiciona à esquerda */
+    margin: -20px 20px 20px 0; /* Espaço ao redor, com espaço à direita */
+    border-radius: 10px;
+    width: 300px;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px 0;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    color: #4a90e2;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff6347; /* Muda de cor ao passar o mouse */
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #066709;
+}
+
+.imagem-viajar {
+    width: 200px; /* Define a largura fixa para as imagens */
+    height: 150px; /* Mantém a proporção original das imagens */
+    border-radius: 5px; /* (Opcional) Adiciona bordas arredondadas */
+}
+
+.mensagem-botao {   
+    text-align: center;
+    font-size: 18px;
+    color: #080808;   
+}
