@@ -1,5 +1,5 @@
 body {
-    background-color: #f0f8ff; /* Cor de fundo suave */
+    background-color: #f0f8ff;
     font-family: Arial, sans-serif;
 }
 
@@ -16,17 +16,17 @@ p {
 ul {
     margin: 20px;
     padding: 0;
-    list-style-type: circle; /* Remove os marcadores padrão */
+    list-style-type: circle;
 }
 
 ul li {
-    margin-bottom: 10px; /* Espaçamento maior entre itens */
+    margin-bottom: 10px;
 }
 
 img.hobby-image {
     display: block;
-    float: left; /* Posiciona à esquerda */
-    margin: -20px 20px 20px 0; /* Espaço ao redor, com espaço à direita */
+    float: left;
+    margin: -20px 20px 20px 0;
     border-radius: 10px;
     width: 300px;
 }
@@ -56,7 +56,7 @@ a {
 }
 
 a:hover {
-    color: #ff6347; /* Muda de cor ao passar o mouse */
+    color: #ff6347;
 }
 
 button {
@@ -75,9 +75,9 @@ button:hover {
 }
 
 .imagem-viajar {
-    width: 200px; /* Define a largura fixa para as imagens */
-    height: 150px; /* Mantém a proporção original das imagens */
-    border-radius: 5px; /* (Opcional) Adiciona bordas arredondadas */
+    width: 200px;
+    height: 150px;
+    border-radius: 5px;
 }
 
 .mensagem-botao {   
